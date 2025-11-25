@@ -36,4 +36,5 @@ Busco sempre evoluir, construir meu portfólio e me preparar para ingressar no m
 ## Onde me encontrar
 
 **Email:** [matheus.loc.soares@gmail.com](mailto:matheus.loc.soares@gmail.com)
+
 **LinkedIn:** [https://www.linkedin.com/in/matheus-soares-073615279](https://www.linkedin.com/in/matheus-soares-073615279)
