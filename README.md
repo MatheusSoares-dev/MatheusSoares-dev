@@ -55,6 +55,7 @@ Website para fotógrafo profissional com design moderno, animações e galeria r
 ## Contato
 
 **LinkedIn:** [https://www.linkedin.com/in/matheus-soares-073615279](https://www.linkedin.com/in/matheus-soares-073615279)
+
 **Email:** [matheus.loc.soares@gmail.com](mailto:matheus.loc.soares@gmail.com)
 
 
