@@ -1,40 +1,63 @@
-#  Olá! Eu sou o Matheus Soares
+# Olá, eu sou Matheus Soares
 
-Desenvolvedor **Front-End em formação**, focado na criação de interfaces modernas, responsivas e bem estruturadas.
-Atualmente estudando **HTML, CSS e JavaScript**, e aprofundando meus conhecimentos para construir aplicações completas, funcionais e visualmente atraentes.
+Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
-Busco sempre evoluir, construir meu portfólio e me preparar para ingressar no mercado como desenvolvedor.
+Desenvolvedor Front-End em formação, apaixonado por criar interfaces modernas, responsivas e intuitivas.
 
----
-
-## Tecnologias & Habilidades
-
-### **Front-End**
-
-* **HTML5** – semântica, acessibilidade e boas práticas
-* **CSS3** – layouts responsivos, Flexbox, Grid, animações
-* **JavaScript (ES6+)** – lógica, DOM, manipulação de eventos
-* **Git & GitHub** – versionamento profissional e organização de repositórios
-
-### **Em evolução**
-
-* Boas práticas de UI/UX
-* Estruturação de projetos
-* Componentização e organização de código
-* Boas práticas de responsividade para mobile-first
+Atualmente estudando HTML, CSS, JavaScript, Git e GitHub, com foco em desenvolvimento web e experiência do usuário.
 
 ---
 
-## Sobre mim
+## Tecnologias
 
-* Estudante de **Análise e Desenvolvimento de Sistemas**
-* Aprendo melhor com **visualização e prática**, então estou sempre criando projetos reais
-* Trabalhando para entrar no mercado de Front-End e construir uma base sólida para futuramente evoluir para **desenvolvimento Full Stack** usando Python/Django
+### Front-End
+
+* HTML5
+* CSS3
+* JavaScript
+
+### Ferramentas
+
+* Git
+* GitHub
+* VS Code
+* Figma
+
+### Estudando
+
+* JavaScript Avançado
+* UI/UX
+* React
 
 ---
 
-## Onde me encontrar
+## Projetos em Destaque
 
-**Email:** [matheus.loc.soares@gmail.com](mailto:matheus.loc.soares@gmail.com)
+### É de Casa
+
+Landing page moderna para empresa de manutenção residencial, desenvolvida com foco em identidade visual, responsividade e experiência do usuário.
+
+### RetroFocus
+
+Website para fotógrafo profissional com design moderno, animações e galeria responsiva.
+
+---
+
+## Objetivos
+
+* Conquistar uma oportunidade como Desenvolvedor Front-End Júnior ou Estagiário.
+* Aprimorar conhecimentos em JavaScript e React.
+* Construir projetos cada vez mais próximos de aplicações reais.
+* Evoluir continuamente em boas práticas de desenvolvimento web.
+
+---
+
+## Contato
 
 **LinkedIn:** [https://www.linkedin.com/in/matheus-soares-073615279](https://www.linkedin.com/in/matheus-soares-073615279)
+**Email:** [matheus.loc.soares@gmail.com](mailto:matheus.loc.soares@gmail.com)
+
+
+---
+
+Sempre aprendendo, construindo e evoluindo um projeto de cada vez.
