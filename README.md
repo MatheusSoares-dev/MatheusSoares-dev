@@ -46,7 +46,7 @@ Com **GSAP** e **ScrollTrigger**, exploro movimento como recurso de narrativa e 
 
 | Projeto | O que explorei | Links |
 | --- | --- | --- |
-| **B1 Tattoo** | Site para estúdio de tatuagem com foco em identidade visual, interações e animações. | [Repositório](https://github.com/MatheusSoares-dev/BF-Tattoo) · [Ver projeto](https://b1-tattoo.vercel.app/) |
+| **BF Tattoo** | Site para estúdio de tatuagem com foco em identidade visual, interações e animações. | [Repositório](https://github.com/MatheusSoares-dev/BF-Tattoo) · [Ver projeto](https://b1-tattoo.vercel.app/) |
 | **É de Casa** | Site para empresa de manutenção residencial, desenvolvido com HTML, CSS, JavaScript e GSAP. | [Repositório](https://github.com/MatheusSoares-dev/Projeto-Carlos) · [Ver projeto](https://projeto-carlos-weld.vercel.app/) |
 | **RetroFocus** | Projeto de fotografia com atenção a design, galeria, responsividade e animações. | [Repositório](https://github.com/MatheusSoares-dev/RetroFocus) |
 
