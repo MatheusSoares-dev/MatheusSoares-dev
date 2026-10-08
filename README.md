@@ -14,25 +14,32 @@ Construo interfaces responsivas e experiências digitais que equilibram clareza,
 
 ## Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com foco em Front-End e Desenvolvimento Web. Gosto de transformar ideias em interfaces modernas, responsivas e fáceis de usar — com atenção à hierarquia visual, experiência do usuário e interações que fazem sentido.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com foco em Front-End, **Web Design** e Desenvolvimento Web. Gosto de transformar ideias em interfaces modernas, responsivas e fáceis de usar — com atenção à hierarquia visual, experiência do usuário e interações que fazem sentido.
 
 > Código é a ferramenta. A experiência é o resultado.
 
 - Interfaces responsivas, bem estruturadas e orientadas à experiência do usuário;
-- Interesse especial em UI/UX, animações e interações para a web;
+- Interesse especial em Web Design, UI/UX, animações e interações para a web;
 - Construindo projetos reais enquanto desenvolvo uma base sólida em Front-End.
 
 ## Stack atual
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,gsap,figma,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, React, Next.js, GSAP, Figma, Git, GitHub e VS Code" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,figma,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, React, Next.js, Figma, Git, GitHub e VS Code" />
+  <img width="48" height="48" src="https://cdn.simpleicons.org/greensock/88CE02" alt="GSAP" />
 </p>
 
 **Em aprofundamento:** React e Next.js — estudando os fundamentos e construindo projetos para evoluir com consistência.
 
+## Web Design & Motion
+
+**Web Design** é parte central do meu processo: penso em composição, contraste, hierarquia e responsividade antes de transformar uma tela em código.
+
+Com **GSAP** e **ScrollTrigger**, exploro movimento como recurso de narrativa e orientação — animações que guiam a atenção, reforçam a identidade visual e tornam a navegação mais envolvente, sem comprometer clareza ou performance.
+
 ## Em foco agora
 
-`JavaScript` &nbsp; `GSAP + ScrollTrigger + SplitText` &nbsp; `React` &nbsp; `Next.js` &nbsp; `UI/UX`
+`JavaScript` &nbsp; `GSAP + ScrollTrigger` &nbsp; `Web Design` &nbsp; `React` &nbsp; `Next.js` &nbsp; `UI/UX`
 
 ## Projetos em destaque
 
@@ -42,12 +49,13 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com foco em F
 | **É de Casa** | Site para empresa de manutenção residencial, desenvolvido com HTML, CSS, JavaScript e GSAP. | [Repositório](https://github.com/MatheusSoares-dev/Projeto-Carlos) · [Ver projeto](https://projeto-carlos-weld.vercel.app/) |
 | **RetroFocus** | Projeto de fotografia com atenção a design, galeria, responsividade e animações. | [Repositório](https://github.com/MatheusSoares-dev/RetroFocus) |
 
-## GitHub em números
+## Como penso interfaces
 
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=MatheusSoares-dev&show_icons=true&hide_title=true&hide_border=true&rank_icon=github&theme=transparent" alt="Estatísticas do GitHub de Matheus Soares" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSoares-dev&layout=compact&hide_border=true&theme=transparent" alt="Linguagens mais usadas por Matheus Soares" />
-</p>
+| Princípio | Na prática |
+| --- | --- |
+| **Design com propósito** | Cada escolha visual deve facilitar a leitura, comunicar a marca ou tornar a jornada mais clara. |
+| **Movimento com intenção** | Animações devem orientar, dar ritmo e valorizar o conteúdo — não apenas decorar. |
+| **Experiência em qualquer tela** | Responsividade é parte do projeto desde o início, não um ajuste feito no fim. |
 
 ## Próximo passo
 
