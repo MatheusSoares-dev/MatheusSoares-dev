@@ -25,8 +25,9 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com foco em F
 ## Stack atual
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,figma,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, React, Next.js, Figma, Git, GitHub e VS Code" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, React, Next.js, Git, GitHub e VS Code" />
   <img width="48" height="48" src="https://cdn.simpleicons.org/greensock/88CE02" alt="GSAP" />
+  <img width="48" height="48" src="https://www.google.com/s2/favicons?domain=stitch.withgoogle.com&sz=64" alt="Google Stitch" />
 </p>
 
 **Em aprofundamento:** React e Next.js — estudando os fundamentos e construindo projetos para evoluir com consistência.
