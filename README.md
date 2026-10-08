@@ -32,7 +32,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com foco em F
 
 ## Em foco agora
 
-`JavaScript` &nbsp; `GSAP + ScrollTrigger` &nbsp; `React` &nbsp; `Next.js` &nbsp; `UI/UX`
+`JavaScript` &nbsp; `GSAP + ScrollTrigger + SplitText` &nbsp; `React` &nbsp; `Next.js` &nbsp; `UI/UX`
 
 ## Projetos em destaque
 
